@@ -1915,3 +1915,7 @@ java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnect
 2024.06.29 15:42:59 INFO  time: code lens generation in 4.33s
 2024.06.29 15:45:29 INFO  no build target found for D:\VIRACE\Big_data_scala\src\main\scala\example\SequenceIndexer.scala. Using presentation compiler with project's scala-library version: 3.3.3
 2024.06.29 16:31:49 INFO  no build target found for D:\VIRACE\Big_data_scala\src\main\scala\example\SequenceIndexer.scala. Using presentation compiler with project's scala-library version: 3.3.3
+Jun 29, 2024 4:33:30 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.29 16:33:36 WARN  no build target for: D:\VIRACE\Big_data_scala\src\main\scala\example\SequenceIndexer.scala
+2024.06.29 16:33:36 INFO  no build target found for D:\VIRACE\Big_data_scala\src\main\scala\example\SequenceIndexer.scala. Using presentation compiler with project's scala-library version: 3.3.3
